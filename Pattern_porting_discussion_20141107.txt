@@ -1,0 +1,23 @@
+Pattern porting discussion 20141107
+
+PyWordNet — avoid to having NTLK as dependency; we can try porting Pattern's version and if it doesn't work then leave it 
+
+Tom De Smedt graduated 2000 in software dev; in 2004 did computer graphics; then did four years of research, then 2008-12 did PhD research in NLP and machine learning — mostly working on Pattern.
+
+Tom De Smedt: Most new students of Python learn Py3K now, so porting is urgent.
+
+Tom De Smedt NTLK concentrates on core NLP tasks, such as training. Pattern is more concerned with people who have no academic background and need to get up and running quickly.
+
+Tom De Smedt: Current version on line is the newest and will not have any new updates.
+
+Tom De Smedt is trying to get a spin-off company started, to identify the true author behind a false public profile.
+
+Tom De Smedt: prefers to avoid branches and technical overhead. But branches will be helpful as the number of contributors increases. DPB: So DPB will have a local dev branch, and he will move suitable things to the Github-linked version. Tom De Smedt says he keeps track of this mentally. There is someone named Andy Hayden (https://github.com/hayd/pattern, http://hayd.github.io/, https://github.com/hayd/cv/blob/master/AndyHaydenCV.pdf?raw=true) who is active but takes a lot of time asking questions, and Tom will talk to him about that.
+
+DPB has the authority to approve his own pull requests; no need to wait for approval or for seven days.
+
+Tom De Smedt cares about clean code, since students will be reading it and learning from it. More comments are a good idea.
+
+Tom De Smedt: let's let a week pass and then meet again with the others: 21 November, 2014, at 3 p.m. EST, 9 p.m. CET.
+
+[end]
